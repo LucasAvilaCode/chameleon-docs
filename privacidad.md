@@ -2,7 +2,7 @@
 
 ## Chameleon
 
-**Última actualización:** 1 de julio de 2026
+**Última actualización:** 24 de septiembre de 2026
 
 # 1. Introducción
 
@@ -204,17 +204,43 @@ Cuando una cuenta sea cancelada, Chameleon podrá conservar determinada informac
 
 Las copias de seguridad podrán conservar información durante el tiempo estrictamente necesario para garantizar la continuidad operativa.
 
-# 15. Derechos de los titulares de los datos
+# 15. Derechos de los titulares de los datos y eliminación de cuenta
 
-Los Usuarios podrán ejercer los derechos reconocidos por la Ley N.º 25.326, incluyendo:
+Los Usuarios podrán ejercer los derechos reconocidos por la Ley N.º 25.326, 
+incluyendo acceso, rectificación, actualización, supresión (cuando 
+corresponda) y confidencialidad.
 
-- acceso;
-- rectificación;
-- actualización;
-- supresión, cuando corresponda;
-- confidencialidad.
+# 15.1 Solicitud de eliminación de cuenta
 
-Las solicitudes podrán realizarse mediante el correo electrónico informado en la presente Política.
+Para solicitar la eliminación de su cuenta en Chameleon, el Usuario debe 
+enviar un correo electrónico a [tu-email de contacto], desde la dirección 
+de correo registrada en la aplicación, indicando en el asunto "Eliminación 
+de cuenta". La solicitud será procesada dentro de un plazo de [X] días 
+hábiles.
+
+Al eliminar la cuenta, Chameleon dará de baja las credenciales de acceso 
+del Usuario (correo electrónico y contraseña) y el vínculo entre dicha 
+cuenta y los centros fitness a los que se encontraba asociado.
+
+# 15.2 Datos vinculados a centros fitness
+
+Chameleon opera como una plataforma multi-tenant que intermedia entre los 
+Usuarios y los centros fitness (gimnasios) a los que se vinculan. Los datos 
+personales del Usuario (incluyendo, entre otros, nombre, DNI, fecha de 
+nacimiento y demás datos de perfil), así como los relacionados con 
+membresías, créditos, reservas, historial de asistencia y pagos, son 
+proporcionados directamente por el Usuario en el marco de su relación 
+contractual con cada centro fitness, quien actúa como responsable de dicha 
+información.
+
+En consecuencia, la eliminación de la cuenta en Chameleon no implica la 
+eliminación de estos datos, ya que su conservación corresponde al centro 
+fitness y puede resultar necesaria por motivos contractuales, contables o 
+legales (por ejemplo, comprobantes de pago o historial de servicios 
+prestados). Para solicitar la eliminación o el acceso a estos datos 
+específicos, el Usuario deberá comunicarse directamente con el centro 
+fitness correspondiente, quien es el responsable de definir el plazo de 
+conservación aplicable según la normativa vigente.
 
 # 16. Autoridad de control
 
