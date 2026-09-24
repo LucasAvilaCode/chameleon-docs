@@ -213,14 +213,13 @@ corresponda) y confidencialidad.
 # 15.1 Solicitud de eliminación de cuenta
 
 Para solicitar la eliminación de su cuenta en Chameleon, el Usuario debe 
-enviar un correo electrónico a [tu-email de contacto], desde la dirección 
+enviar un correo electrónico a lucasavilacode@gmail.com, desde la dirección 
 de correo registrada en la aplicación, indicando en el asunto "Eliminación 
-de cuenta". La solicitud será procesada dentro de un plazo de [X] días 
+de cuenta". La solicitud será procesada dentro de un plazo de 15 días 
 hábiles.
 
 Al eliminar la cuenta, Chameleon dará de baja las credenciales de acceso 
-del Usuario (correo electrónico y contraseña) y el vínculo entre dicha 
-cuenta y los centros fitness a los que se encontraba asociado.
+del Usuario (correo electrónico y contraseña)
 
 # 15.2 Datos vinculados a centros fitness
 
